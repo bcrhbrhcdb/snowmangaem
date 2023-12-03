@@ -7,7 +7,8 @@ const words = [
   'REACT',
   'ANGULAR',
   'JQUERY',
-  'VUE'
+  'VUE',
+  'INDEX'
 ];
 
 // Define the maximum number of incorrect guesses allowed
